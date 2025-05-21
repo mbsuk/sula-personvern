@@ -1,4 +1,6 @@
-<!-- title: Opplysningsplikt til barnevernet -->
+---
+title: Opplysningsplikt til barnevernet
+---
 
 
   

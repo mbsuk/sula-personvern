@@ -1,4 +1,6 @@
-<!-- title: Skolehverdagen -->
+---
+title: Skolehverdagen
+---
 
 
   

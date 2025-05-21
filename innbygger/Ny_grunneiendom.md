@@ -1,4 +1,6 @@
-<!-- title: Ny grunneiendom -->
+---
+title: Ny grunneiendom
+---
 
 
   

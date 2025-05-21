@@ -1,4 +1,6 @@
-<!-- title: Betaling av lønn, ferie og fravær -->
+---
+title: Betaling av lønn, ferie og fravær
+---
 
 
   

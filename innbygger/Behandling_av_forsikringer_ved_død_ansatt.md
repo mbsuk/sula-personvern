@@ -1,4 +1,6 @@
-<!-- title: Behandling av forsikringer ved død (ansatt) -->
+---
+title: Behandling av forsikringer ved død (ansatt)
+---
 
 
   

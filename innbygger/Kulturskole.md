@@ -1,4 +1,6 @@
-<!-- title: Kulturskole -->
+---
+title: Kulturskole
+---
 
 
   

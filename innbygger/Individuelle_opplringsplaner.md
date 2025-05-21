@@ -1,4 +1,6 @@
-<!-- title: Individuelle opplæringsplaner -->
+---
+title: Individuelle opplæringsplaner
+---
 
 
   

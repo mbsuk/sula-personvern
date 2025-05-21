@@ -1,4 +1,6 @@
-<!-- title: Barnevernvakt/bekymringsmeldinger -->
+---
+title: Barnevernvakt/bekymringsmeldinger
+---
 
 
   

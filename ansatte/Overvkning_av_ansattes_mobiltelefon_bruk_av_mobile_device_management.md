@@ -1,4 +1,6 @@
-<!-- title: Overvåkning av ansattes mobiltelefon (bruk av mobile device management) -->
+---
+title: Overvåkning av ansattes mobiltelefon (bruk av mobile device management)
+---
 
 
   

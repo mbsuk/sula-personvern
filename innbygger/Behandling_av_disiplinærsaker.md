@@ -1,4 +1,6 @@
-<!-- title: Behandling av disiplinærsaker -->
+---
+title: Behandling av disiplinærsaker
+---
 
 
   

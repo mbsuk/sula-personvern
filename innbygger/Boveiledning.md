@@ -1,4 +1,6 @@
-<!-- title: Boveiledning -->
+---
+title: Boveiledning
+---
 
 
   

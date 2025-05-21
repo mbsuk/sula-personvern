@@ -1,4 +1,6 @@
-<!-- title: Kommunikasjon barnehage - hjem -->
+---
+title: Kommunikasjon barnehage - hjem
+---
 
 
   

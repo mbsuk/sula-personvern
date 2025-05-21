@@ -1,4 +1,6 @@
-<!-- title: Opphold i institusjoner for ungdom med særlige adferdsvansker -->
+---
+title: Opphold i institusjoner for ungdom med særlige adferdsvansker
+---
 
 
   

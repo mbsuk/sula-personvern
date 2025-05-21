@@ -1,4 +1,6 @@
-<!-- title: Kvalifiseringsprogrammet (KVP) -->
+---
+title: Kvalifiseringsprogrammet (KVP)
+---
 
 
   

@@ -1,4 +1,6 @@
-<!-- title: Dagsenter for psykiatri -->
+---
+title: Dagsenter for psykiatri
+---
 
 
   

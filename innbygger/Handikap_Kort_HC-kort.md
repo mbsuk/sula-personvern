@@ -1,4 +1,6 @@
-<!-- title: Handikap Kort (HC-kort) -->
+---
+title: Handikap Kort (HC-kort)
+---
 
 
   

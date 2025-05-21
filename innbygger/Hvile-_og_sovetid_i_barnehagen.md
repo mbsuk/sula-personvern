@@ -1,4 +1,6 @@
-<!-- title: Hvile- og sovetid i barnehagen -->
+---
+title: Hvile- og sovetid i barnehagen
+---
 
 
   

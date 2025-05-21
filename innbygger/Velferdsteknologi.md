@@ -1,4 +1,6 @@
-<!-- title: Velferdsteknologi -->
+---
+title: Velferdsteknologi
+---
 
 
   

@@ -1,4 +1,6 @@
-<!-- title: Skoleskyss -->
+---
+title: Skoleskyss
+---
 
 
   

@@ -1,4 +1,6 @@
-<!-- title: BPA – Brukerstyrt personlig assistent -->
+---
+title: BPA – Brukerstyrt personlig assistent
+---
 
 
   

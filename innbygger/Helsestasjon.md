@@ -1,4 +1,6 @@
-<!-- title: Helsestasjon -->
+---
+title: Helsestasjon
+---
 
 
   

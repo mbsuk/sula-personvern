@@ -1,4 +1,6 @@
-<!-- title: Fiks smittesporing -->
+---
+title: Fiks smittesporing
+---
 
 
   

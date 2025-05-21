@@ -1,4 +1,6 @@
-<!-- title: Klassetrivsel - trivselsundersøking -->
+---
+title: Klassetrivsel - trivselsundersøking
+---
 
 
   

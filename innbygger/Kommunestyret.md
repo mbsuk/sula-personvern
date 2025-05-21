@@ -1,4 +1,6 @@
-<!-- title: Kommunestyret -->
+---
+title: Kommunestyret
+---
 
 
   

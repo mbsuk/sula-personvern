@@ -1,4 +1,6 @@
-<!-- title: Elevråd, skolemiljøutvalg og samarbeidsutvalg -->
+---
+title: Elevråd, skolemiljøutvalg og samarbeidsutvalg
+---
 
 
   

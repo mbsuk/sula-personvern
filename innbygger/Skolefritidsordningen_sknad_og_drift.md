@@ -1,4 +1,6 @@
-<!-- title: Skolefritidsordningen, søknad og drift. -->
+---
+title: Skolefritidsordningen, søknad og drift.
+---
 
 
   

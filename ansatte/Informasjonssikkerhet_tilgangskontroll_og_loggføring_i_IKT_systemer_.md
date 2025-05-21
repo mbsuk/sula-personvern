@@ -1,4 +1,6 @@
-<!-- title: Informasjonssikkerhet, tilgangskontroll og loggføring  i IKT systemer -->
+---
+title: Informasjonssikkerhet, tilgangskontroll og loggføring  i IKT systemer
+---
 
 
 Vi i behandler personopplysninger om deg i følgende system/behandling:

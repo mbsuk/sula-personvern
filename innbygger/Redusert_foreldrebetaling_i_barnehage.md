@@ -1,4 +1,6 @@
-<!-- title: Redusert foreldrebetaling i barnehage -->
+---
+title: Redusert foreldrebetaling i barnehage
+---
 
 
   

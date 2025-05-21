@@ -1,4 +1,6 @@
-<!-- title: Mottak av e-post/post/Postmottak -->
+---
+title: Mottak av e-post/post/Postmottak
+---
 
 
   

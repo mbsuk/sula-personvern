@@ -1,4 +1,6 @@
-<!-- title: Formannskapet -->
+---
+title: Formannskapet
+---
 
 
   

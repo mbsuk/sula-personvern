@@ -1,4 +1,6 @@
-<!-- title: Fosterhjem -->
+---
+title: Fosterhjem
+---
 
 
   

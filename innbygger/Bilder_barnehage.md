@@ -1,4 +1,6 @@
-<!-- title: Bilder barnehage -->
+---
+title: Bilder barnehage
+---
 
 
   

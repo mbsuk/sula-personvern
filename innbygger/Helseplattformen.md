@@ -1,4 +1,6 @@
-<!-- title: Helseplattformen -->
+---
+title: Helseplattformen
+---
 
 
   

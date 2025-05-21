@@ -1,4 +1,6 @@
-<!-- title: Uønskede hendelser (mobbing, konflikter og lignende) -->
+---
+title: Uønskede hendelser (mobbing, konflikter og lignende)
+---
 
 
   

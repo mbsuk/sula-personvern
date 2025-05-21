@@ -1,4 +1,6 @@
-<!-- title: Grupper i sosiale medier for personal og foreldre i barnehagen (Facebook, Messenger e.l.) -->
+---
+title: Grupper i sosiale medier for personal og foreldre i barnehagen (Facebook, Messenger e.l.)
+---
 
 
   

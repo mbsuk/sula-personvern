@@ -1,4 +1,6 @@
-<!-- title: Sykehjem -->
+---
+title: Sykehjem
+---
 
 
   

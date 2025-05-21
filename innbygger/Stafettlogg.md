@@ -1,4 +1,6 @@
-<!-- title: Stafettlogg -->
+---
+title: Stafettlogg
+---
 
 
   

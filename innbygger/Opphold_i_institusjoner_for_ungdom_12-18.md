@@ -1,4 +1,6 @@
-<!-- title: Opphold i institusjoner for ungdom (12-18) -->
+---
+title: Opphold i institusjoner for ungdom (12-18)
+---
 
 
   

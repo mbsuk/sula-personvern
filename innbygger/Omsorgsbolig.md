@@ -1,4 +1,6 @@
-<!-- title: Omsorgsbolig -->
+---
+title: Omsorgsbolig
+---
 
 
   

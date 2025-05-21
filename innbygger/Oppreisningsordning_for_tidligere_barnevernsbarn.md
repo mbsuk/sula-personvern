@@ -1,4 +1,6 @@
-<!-- title: Oppreisningsordning for tidligere barnevernsbarn -->
+---
+title: Oppreisningsordning for tidligere barnevernsbarn
+---
 
 
   

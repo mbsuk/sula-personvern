@@ -1,4 +1,6 @@
-<!-- title: Anskaffelser -->
+---
+title: Anskaffelser
+---
 
 
   

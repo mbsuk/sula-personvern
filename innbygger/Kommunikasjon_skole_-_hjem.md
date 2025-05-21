@@ -1,4 +1,6 @@
-<!-- title: Kommunikasjon skole - hjem -->
+---
+title: Kommunikasjon skole - hjem
+---
 
 
   
