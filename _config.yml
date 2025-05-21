@@ -9,5 +9,4 @@ collections:
   innbygger:
     output: true
     permalink: /innbygger/:path/
-
-# Navigation will be handled in _data/navigation.yml
+    
