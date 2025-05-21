@@ -3,6 +3,6 @@ layout: default
 title: Hjem
 ---
 
-# Velkommen til Sula Personvern
+# Sula Kommune Personvern
 
 Naviger via menyen for å finne dokumentasjon for ansatte og innbyggere.
