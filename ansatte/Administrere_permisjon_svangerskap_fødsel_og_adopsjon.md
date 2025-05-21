@@ -1,6 +1,5 @@
 # Administrere permisjon, svangerskap, fødsel og adopsjon
 
-=======================================================
 
   
 

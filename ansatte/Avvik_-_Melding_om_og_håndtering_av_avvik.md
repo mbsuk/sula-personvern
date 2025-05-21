@@ -1,6 +1,5 @@
 # Avvik - Melding om og håndtering av avvik
 
-=========================================
 
   
 

@@ -1,6 +1,5 @@
 # IST - skole- og barnehage administrasjon
 
-========================================
 
   
 

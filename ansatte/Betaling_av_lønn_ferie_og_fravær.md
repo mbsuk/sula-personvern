@@ -1,6 +1,5 @@
 # Betaling av lønn, ferie og fravær
 
-=================================
 
   
 

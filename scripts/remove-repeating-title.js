@@ -1,4 +1,4 @@
-// Script to remove repeating title from markdown files in 'ansatte' and 'innbygger' folders
+// Script to remove repeating title and underline from markdown files in 'ansatte' and 'innbygger' folders
 // Usage: node scripts/remove-repeating-title.js
 
 const fs = require('fs');
@@ -16,19 +16,26 @@ folders.forEach(folder => {
     // Find the first markdown title
     const titleLineIdx = lines.findIndex(line => line.trim().startsWith('# '));
     if (titleLineIdx !== -1) {
-      const title = lines[titleLineIdx].replace(/^# /, '').trim();
-      // Remove the next non-empty line if it matches the title (ignoring = and whitespace)
-      for (let i = titleLineIdx + 1; i < lines.length; i++) {
-        if (lines[i].trim() === '') continue;
-        // Remove markdown underline (=== or ---)
-        if (/^=+$/.test(lines[i].trim()) || /^-+$/.test(lines[i].trim())) {
-          lines.splice(i, 1);
-          changed = true;
-          i--;
-          continue;
+      // Remove all lines after the title line that only contain '=' (any length, possibly with whitespace)
+      let i = titleLineIdx + 1;
+      while (i < lines.length) {
+        if (lines[i].trim() === '' || /^=+$/.test(lines[i].trim())) {
+          if (/^=+$/.test(lines[i].trim())) {
+            lines.splice(i, 1);
+            changed = true;
+            continue;
+          }
+          i++;
+        } else {
+          break;
         }
-        if (lines[i].trim() === title) {
-          lines.splice(i, 1);
+      }
+      // Remove the next non-empty line if it matches the title (ignoring whitespace)
+      const title = lines[titleLineIdx].replace(/^# /, '').trim();
+      for (let j = i; j < lines.length; j++) {
+        if (lines[j].trim() === '') continue;
+        if (lines[j].trim() === title) {
+          lines.splice(j, 1);
           changed = true;
         }
         break;
