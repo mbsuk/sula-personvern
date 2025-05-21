@@ -1,4 +1,7 @@
-<!-- title: Administrere ansatte (personalmappe) -->
+---
+title: Administrere ansatte (personalmappe) 
+---
+
 # Administrere ansatte (personalmappe)
 
 Vi i behandler personopplysninger om deg i følgende system/behandling:
