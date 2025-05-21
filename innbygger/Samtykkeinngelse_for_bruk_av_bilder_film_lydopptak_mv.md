@@ -1,4 +1,4 @@
-# Samtykkeinngåelse for bruk av bilder, film, lydopptak mv.
+<!-- title: Samtykkeinngåelse for bruk av bilder, film, lydopptak mv. -->
 
 
   

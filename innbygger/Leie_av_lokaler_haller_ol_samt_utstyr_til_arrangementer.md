@@ -1,4 +1,4 @@
-# Leie av lokaler, haller o.l, samt utstyr til arrangementer.
+<!-- title: Leie av lokaler, haller o.l, samt utstyr til arrangementer. -->
 
 
   
