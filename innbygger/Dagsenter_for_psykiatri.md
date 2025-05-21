@@ -1,6 +1,5 @@
 # Dagsenter for psykiatri
 
-Dagsenter for psykiatri
 
   
 

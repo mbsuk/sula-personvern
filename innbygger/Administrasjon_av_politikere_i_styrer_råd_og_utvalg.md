@@ -1,6 +1,5 @@
 # Administrasjon av politikere i styrer, råd og utvalg
 
-Administrasjon av politikere i styrer, råd og utvalg
 
   
 

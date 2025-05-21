@@ -1,6 +1,5 @@
 # Handikap Kort (HC-kort)
 
-Handikap Kort (HC-kort)
 
   
 

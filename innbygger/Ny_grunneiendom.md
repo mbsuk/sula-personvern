@@ -1,6 +1,5 @@
 # Ny grunneiendom
 
-Ny grunneiendom
 
   
 

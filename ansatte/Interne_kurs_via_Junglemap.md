@@ -1,6 +1,5 @@
 # Interne kurs via Junglemap
 
-Interne kurs via Junglemap
 ==========================
 
   

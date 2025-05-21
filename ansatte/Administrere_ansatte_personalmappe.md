@@ -1,6 +1,5 @@
 # Administrere ansatte (personalmappe)
 
-Administrere ansatte (personalmappe)
 ====================================
 
   

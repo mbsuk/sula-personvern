@@ -1,6 +1,5 @@
 # Trygghetsalarm
 
-Trygghetsalarm
 
   
 

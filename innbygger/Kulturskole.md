@@ -1,6 +1,5 @@
 # Kulturskole
 
-Kulturskole
 
   
 

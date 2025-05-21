@@ -1,6 +1,5 @@
 # Rekruttering og organisering av valgfunksjonærer 
 
-Rekruttering og organisering av valgfunksjonærer
 
   
 

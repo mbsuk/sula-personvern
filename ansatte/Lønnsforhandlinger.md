@@ -1,6 +1,5 @@
 # Lønnsforhandlinger
 
-Lønnsforhandlinger
 ==================
 
   

@@ -1,6 +1,5 @@
 # Ajourføring av eiendomsregister (matrikkel)
 
-Ajourføring av eiendomsregister (matrikkel)
 
   
 

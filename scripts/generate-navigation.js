@@ -22,7 +22,7 @@ function getNavChildren(dir, urlPrefix) {
       const title = getTitleFromFile(filePath);
       return {
         title,
-        url: `/${urlPrefix}/${path.basename(f, '.md')}`
+        url: `/sula-personvern/${urlPrefix}/${path.basename(f, '.md')}`
       };
     });
 }

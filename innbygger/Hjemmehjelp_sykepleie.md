@@ -1,6 +1,5 @@
 # Hjemmehjelp/sykepleie
 
-Hjemmehjelp/sykepleie
 
   
 

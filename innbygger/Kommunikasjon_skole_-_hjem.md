@@ -1,6 +1,5 @@
 # Kommunikasjon skole - hjem
 
-Kommunikasjon skole - hjem
 
   
 

@@ -1,6 +1,5 @@
 # Drift av kommunal eigedom
 
-Drift av kommunal eigedom
 
   
 

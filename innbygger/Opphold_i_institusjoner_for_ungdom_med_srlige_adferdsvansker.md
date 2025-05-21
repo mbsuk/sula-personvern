@@ -1,6 +1,5 @@
 # Opphold i institusjoner for ungdom med særlige adferdsvansker
 
-Opphold i institusjoner for ungdom med særlige adferdsvansker
 
   
 

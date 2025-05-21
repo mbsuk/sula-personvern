@@ -1,6 +1,5 @@
 # Elevråd, skolemiljøutvalg og samarbeidsutvalg
 
-Elevråd, skolemiljøutvalg og samarbeidsutvalg
 
   
 

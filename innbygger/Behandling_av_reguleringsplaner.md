@@ -1,6 +1,5 @@
 # Behandling av reguleringsplaner
 
-Behandling av reguleringsplaner
 
   
 

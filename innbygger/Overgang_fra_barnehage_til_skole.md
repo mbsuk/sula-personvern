@@ -1,6 +1,5 @@
 # Overgang fra barnehage til skole
 
-Overgang fra barnehage til skole
 
   
 

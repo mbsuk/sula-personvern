@@ -1,6 +1,5 @@
 # Multisystemisk terapi (MST)
 
-Multisystemisk terapi (MST)
 
   
 

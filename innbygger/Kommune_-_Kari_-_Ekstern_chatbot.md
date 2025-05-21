@@ -1,6 +1,5 @@
 # Kommune - Kari - Ekstern chatbot
 
-Kommune - Kari - Ekstern chatbot
 
   
 

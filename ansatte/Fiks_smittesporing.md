@@ -1,6 +1,5 @@
 # Fiks smittesporing
 
-Fiks smittesporing
 ==================
 
   

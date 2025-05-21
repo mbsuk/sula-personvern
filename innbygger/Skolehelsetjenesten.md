@@ -1,6 +1,5 @@
 # Skolehelsetjenesten
 
-Skolehelsetjenesten
 
   
 

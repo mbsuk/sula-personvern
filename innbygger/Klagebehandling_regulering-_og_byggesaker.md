@@ -1,6 +1,5 @@
 # Klagebehandling regulering- og byggesaker
 
-Klagebehandling regulering- og byggesaker
 
   
 

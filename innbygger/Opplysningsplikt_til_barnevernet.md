@@ -1,6 +1,5 @@
 # Opplysningsplikt til barnevernet
 
-Opplysningsplikt til barnevernet
 
   
 

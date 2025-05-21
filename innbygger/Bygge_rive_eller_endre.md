@@ -1,6 +1,5 @@
 # Bygge, rive eller endre
 
-Bygge, rive eller endre
 
   
 

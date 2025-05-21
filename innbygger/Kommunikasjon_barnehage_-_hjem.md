@@ -1,6 +1,5 @@
 # Kommunikasjon barnehage - hjem
 
-Kommunikasjon barnehage - hjem
 
   
 

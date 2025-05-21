@@ -1,6 +1,5 @@
 # Opphold i institusjoner for ungdom (12-18)
 
-Opphold i institusjoner for ungdom (12-18)
 
   
 

@@ -1,6 +1,5 @@
 # Redusert foreldrebetaling i barnehage
 
-Redusert foreldrebetaling i barnehage
 
   
 

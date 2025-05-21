@@ -1,6 +1,5 @@
 # Hvile- og sovetid i barnehagen
 
-Hvile- og sovetid i barnehagen
 
   
 

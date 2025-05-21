@@ -1,6 +1,5 @@
 # Tjenester for personer med rus eller psykiske problemer
 
-Tjenester for personer med rus eller psykiske problemer
 
   
 

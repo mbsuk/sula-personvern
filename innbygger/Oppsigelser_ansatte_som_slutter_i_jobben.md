@@ -1,6 +1,5 @@
 # Oppsigelser/ ansatte som slutter i jobben
 
-Oppsigelser/ ansatte som slutter i jobben
 
   
 

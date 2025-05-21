@@ -1,6 +1,5 @@
 # Spesialpedagogisk hjelp (PPT)
 
-Spesialpedagogisk hjelp (PPT)
 
   
 

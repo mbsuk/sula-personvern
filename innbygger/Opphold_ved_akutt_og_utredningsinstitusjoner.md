@@ -1,6 +1,5 @@
 # Opphold ved akutt og utredningsinstitusjoner
 
-Opphold ved akutt og utredningsinstitusjoner
 
   
 

@@ -1,6 +1,5 @@
 # Stipend og kulturpriser
 
-Stipend og kulturpriser
 
   
 

@@ -1,6 +1,5 @@
 # Eiendomsskatt 
 
-Eiendomsskatt
 
   
 

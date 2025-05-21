@@ -1,6 +1,5 @@
 # Sosialmedisinsk tjeneste
 
-Sosialmedisinsk tjeneste
 
   
 

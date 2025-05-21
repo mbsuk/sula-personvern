@@ -1,6 +1,5 @@
 # Kommunens grunneiendommer
 
-Kommunens grunneiendommer
 
   
 

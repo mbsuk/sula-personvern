@@ -1,6 +1,5 @@
 # Circle of security (COS)
 
-Circle of security (COS)
 
   
 

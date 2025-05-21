@@ -1,6 +1,5 @@
 # Oversikt over hjorteviltvald
 
-Oversikt over hjorteviltvald
 
   
 

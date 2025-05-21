@@ -1,6 +1,5 @@
 # Samtykke til vaksinering
 
-Samtykke til vaksinering
 
   
 

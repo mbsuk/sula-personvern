@@ -1,6 +1,5 @@
 # Samtykkeinngåelse for bruk av bilder, film, lydopptak mv.
 
-Samtykkeinngåelse for bruk av bilder, film, lydopptak mv.
 
   
 

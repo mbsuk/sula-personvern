@@ -1,6 +1,5 @@
 # Utmarks- og viltforvaltning.
 
-Utmarks- og viltforvaltning.
 
   
 

@@ -1,6 +1,5 @@
 # Borgerlig vigsel
 
-Borgerlig vigsel
 
   
 

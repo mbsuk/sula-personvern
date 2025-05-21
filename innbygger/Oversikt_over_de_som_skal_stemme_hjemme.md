@@ -1,6 +1,5 @@
 # Oversikt over de som skal stemme hjemme
 
-Oversikt over de som skal stemme hjemme
 
   
 

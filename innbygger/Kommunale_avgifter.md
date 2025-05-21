@@ -1,6 +1,5 @@
 # Kommunale avgifter
 
-Kommunale avgifter
 
   
 

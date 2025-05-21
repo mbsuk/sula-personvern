@@ -1,6 +1,5 @@
 # Bilder barnehage
 
-Bilder barnehage
 
   
 

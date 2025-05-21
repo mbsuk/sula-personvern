@@ -1,6 +1,5 @@
 # TT-kort
 
-TT-kort
 
   
 

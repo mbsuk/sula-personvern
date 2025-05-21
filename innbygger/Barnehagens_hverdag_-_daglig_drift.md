@@ -1,6 +1,5 @@
 # Barnehagens hverdag - daglig drift
 
-Barnehagens hverdag - daglig drift
 
   
 

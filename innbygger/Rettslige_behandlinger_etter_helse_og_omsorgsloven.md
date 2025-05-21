@@ -1,6 +1,5 @@
 # Rettslige behandlinger etter helse og omsorgsloven
 
-Rettslige behandlinger etter helse og omsorgsloven
 
   
 

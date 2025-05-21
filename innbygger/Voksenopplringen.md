@@ -1,6 +1,5 @@
 # Voksenopplæringen
 
-Voksenopplæringen
 
   
 

@@ -1,6 +1,5 @@
 # Grupper i sosiale medier for personal og foreldre i barnehagen (Facebook, Messenger e.l.)
 
-Grupper i sosiale medier for personal og foreldre i barnehagen (Facebook, Messenger e.l.)
 
   
 

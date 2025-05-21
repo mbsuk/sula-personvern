@@ -1,6 +1,5 @@
 # Leie av lokaler, haller o.l, samt utstyr til arrangementer.
 
-Leie av lokaler, haller o.l, samt utstyr til arrangementer.
 
   
 

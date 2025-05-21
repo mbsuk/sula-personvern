@@ -1,6 +1,5 @@
 # Bedriftshelsetjeneste
 
-Bedriftshelsetjeneste
 =====================
 
   

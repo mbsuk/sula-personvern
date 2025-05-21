@@ -1,6 +1,5 @@
 # Kvalifiseringsprogrammet (KVP)
 
-Kvalifiseringsprogrammet (KVP)
 
   
 

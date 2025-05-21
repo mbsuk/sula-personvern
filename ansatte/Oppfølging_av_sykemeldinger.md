@@ -1,6 +1,5 @@
 # Oppfølging av sykemeldinger
 
-Oppfølging av sykemeldinger
 ===========================
 
   

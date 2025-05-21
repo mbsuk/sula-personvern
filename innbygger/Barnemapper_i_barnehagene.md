@@ -1,6 +1,5 @@
 # Barnemapper i barnehagene
 
-Barnemapper i barnehagene
 
   
 

@@ -1,6 +1,5 @@
 # BPA – Brukerstyrt personlig assistent
 
-BPA – Brukerstyrt personlig assistent
 
   
 

@@ -1,6 +1,5 @@
 # Tilknytningsplikt vann
 
-Tilknytningsplikt vann
 
   
 

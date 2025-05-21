@@ -1,6 +1,5 @@
 # Slamtømming
 
-Slamtømming
 
   
 

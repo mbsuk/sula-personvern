@@ -1,6 +1,5 @@
 # Stafettlogg
 
-Stafettlogg
 
   
 

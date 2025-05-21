@@ -1,6 +1,5 @@
 # Velferdsteknologi
 
-Velferdsteknologi
 
   
 

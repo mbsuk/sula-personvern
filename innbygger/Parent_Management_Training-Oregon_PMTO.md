@@ -1,6 +1,5 @@
 # Parent Management Training-Oregon (PMTO)
 
-Parent Management Training-Oregon (PMTO)
 
   
 

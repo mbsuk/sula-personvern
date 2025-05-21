@@ -1,6 +1,5 @@
 # Tilskudd innen kultur og idrett
 
-Tilskudd innen kultur og idrett
 
   
 

@@ -1,6 +1,5 @@
 # Medisinhåndtering
 
-Medisinhåndtering
 
   
 

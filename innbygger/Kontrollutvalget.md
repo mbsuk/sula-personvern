@@ -1,6 +1,5 @@
 # Kontrollutvalget
 
-Kontrollutvalget
 
   
 
