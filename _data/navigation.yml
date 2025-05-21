@@ -1,0 +1,92 @@
+- title: Ansatte
+  children:
+    - title: Lnnsforhandlinger
+      url: /ansatte/Lnnsforhandlinger
+    - title: Bedriftshelsetjeneste
+      url: /ansatte/Bedriftshelsetjeneste
+    - title: Timeregistrering
+      url: /ansatte/Timeregistrering
+    - title: Behandling_av_disiplinrsaker
+      url: /ansatte/Behandling_av_disiplinrsaker
+    - title: Administrere_innleid_personell
+      url: /ansatte/Administrere_innleid_personell
+    - title: Ansatte_p_websiden
+      url: /ansatte/Ansatte_p_websiden
+    - title: Betaling_av_lnn_ferie_og_fravr
+      url: /ansatte/Betaling_av_lnn_ferie_og_fravr
+    - title: Attester_og_ansiennitet
+      url: /ansatte/Attester_og_ansiennitet
+    - title: Omsorgsstnad
+      url: /ansatte/Omsorgsstnad
+    - title: Oppflging_av_sykemeldinger
+      url: /ansatte/Oppflging_av_sykemeldinger
+    - title: Reiser_og_reiseregning
+      url: /ansatte/Reiser_og_reiseregning
+    - title: Fiks_smittesporing
+      url: /ansatte/Fiks_smittesporing
+    - title: Interne_kurs_via_Junglemap
+      url: /ansatte/Interne_kurs_via_Junglemap
+    - title: Oppsigelser_ansatte_som_slutter_i_jobben
+      url: /ansatte/Oppsigelser_ansatte_som_slutter_i_jobben
+    - title: Stillingsutlysninger_og_ansettelse
+      url: /ansatte/Stillingsutlysninger_og_ansettelse
+    - title: Administrere_ansatte_personalmappe
+      url: /ansatte/Administrere_ansatte_personalmappe
+    - title: Administrere_permisjon_svangerskap_fdsel_og_adopsjon
+      url: /ansatte/Administrere_permisjon_svangerskap_fdsel_og_adopsjon
+    - title: Arbeidsmiljkartlegginger
+      url: /ansatte/Arbeidsmiljkartlegginger
+    - title: Informasjonssikkerhet_tilgangskontroll_og_loggfring_i_IKT_systemer_
+      url: /ansatte/Informasjonssikkerhet_tilgangskontroll_og_loggfring_i_IKT_systemer_
+    - title: Overvkning_av_ansattes_mobiltelefon_bruk_av_mobile_device_management
+      url: /ansatte/Overvkning_av_ansattes_mobiltelefon_bruk_av_mobile_device_management
+    - title: Avvik_-_Melding_om_og_hndtering_av_avvik
+      url: /ansatte/Avvik_-_Melding_om_og_hndtering_av_avvik
+    - title: Behandling_av_forsikringer_ved_dd_ansatt
+      url: /ansatte/Behandling_av_forsikringer_ved_dd_ansatt
+    - title: Helseplattformen
+      url: /ansatte/Helseplattformen
+
+- title: Innbygger
+  children:
+    - title: Vedtak_om_elevpermisjoner
+      url: /innbygger/Vedtak_om_elevpermisjoner
+    - title: Spesialpedagogisk_hjelp_PPT
+      url: /innbygger/Spesialpedagogisk_hjelp_PPT
+    - title: Byggforvaltning_og_drift
+      url: /innbygger/Byggforvaltning_og_drift
+    - title: Formannskapet
+      url: /innbygger/Formannskapet
+    - title: Innsyn_i_personopplysninger
+      url: /innbygger/Innsyn_i_personopplysninger
+    - title: Rehabiliteringstjenesten
+      url: /innbygger/Rehabiliteringstjenesten
+    - title: Barnehageopptak
+      url: /innbygger/Barnehageopptak
+    - title: Voksenopplringen
+      url: /innbygger/Voksenopplringen
+    - title: Kartportalen
+      url: /innbygger/Kartportalen
+    - title: Oppsigelser_ansatte_som_slutter_i_jobben
+      url: /innbygger/Oppsigelser_ansatte_som_slutter_i_jobben
+    - title: Opphold_ved_akutt_og_utredningsinstitusjoner
+      url: /innbygger/Opphold_ved_akutt_og_utredningsinstitusjoner
+    - title: Kommunens_grunneiendommer
+      url: /innbygger/Kommunens_grunneiendommer
+    - title: Stillingsutlysninger_og_ansettelse
+      url: /innbygger/Stillingsutlysninger_og_ansettelse
+    - title: Administrere_ansatte_personalmappe
+      url: /innbygger/Administrere_ansatte_personalmappe
+    - title: Utmarks-_og_viltforvaltning
+      url: /innbygger/Utmarks-_og_viltforvaltning
+    - title: Fysioterapitjenester
+      url: /innbygger/Fysioterapitjenester
+    - title: Kontrollutvalget
+      url: /innbygger/Kontrollutvalget
+    - title: Oversikt_over_de_som_skal_stemme_hjemme
+      url: /innbygger/Oversikt_over_de_som_skal_stemme_hjemme
+    - title: Barnevern_-_Oppflging_av_fosterbarn
+      url: /innbygger/Barnevern_-_Oppflging_av_fosterbarn
+    - title: Kommunikasjon_barnehage_-_hjem
+      url: /innbygger/Kommunikasjon_barnehage_-_hjem
+    # ...add more as needed

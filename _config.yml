@@ -1,0 +1,13 @@
+title: Sula Personvern
+baseurl: ""
+url: ""
+theme: minima
+collections:
+  ansatte:
+    output: true
+    permalink: /ansatte/:path/
+  innbygger:
+    output: true
+    permalink: /innbygger/:path/
+
+# Navigation will be handled in _data/navigation.yml
